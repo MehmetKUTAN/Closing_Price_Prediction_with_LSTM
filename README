@@ -1,5 +1,4 @@
 # 📊 IBEX 35 Stock Price Prediction - LSTM Model Report
-
 ## **1. Data Preprocessing **
 ### **1.1 Data Source & Features**
 - **Dataset:** IBEX 35 historical stock prices from **Yahoo Finance**.
